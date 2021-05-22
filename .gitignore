@@ -138,5 +138,4 @@ dmypy.json
 cython_debug/
 
 .vscode
-creds.json
-intents.json
+google-credentials.json
