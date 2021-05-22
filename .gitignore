@@ -140,4 +140,3 @@ cython_debug/
 .vscode
 creds.json
 intents.json
-Procfile
