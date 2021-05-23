@@ -38,7 +38,6 @@
 ```
 VK_TOKEN=Ваш токен с Девмана
 TG_TOKEN=Ваш токен полученный от BotFather
-TG_CHAT_ID=Chat-id полученный от userinfobot
 GOOGLE_PROJECT_ID=id вашего проекта на DialogFlow
 GOOGLE_APPLICATION_CREDENTIALS=путь к вашему файлу с ключами от DialogFlow
 ```
